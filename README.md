@@ -12,4 +12,4 @@ het is mogelijk om reservations te plaatsen. Daarnaast is het mogelijk om een re
 
 ## Previews
 
-![img1[(https://github.com/FrankGIT-1/WPF-airbnb/blob/main/preview/wpf-1.JPG)
+![img1](https://github.com/FrankGIT-1/WPF-airbnb/blob/main/preview/wpf-1.JPG)
